@@ -1,0 +1,30 @@
+{
+  "name": "developer-profile-generator",
+  "version": "1.0.0",
+  "description": "Developer Profile Generator Assignement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkarulas/Developer-Profile-Generator.git"
+  },
+  "keywords": [
+    "Profile",
+    "Generator",
+    "Developer",
+    "Node"
+  ],
+  "author": "Brad Karulas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkarulas/Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/bkarulas/Developer-Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^7.0.0",
+    "puppeteer": "^2.0.0"
+  }
+}
